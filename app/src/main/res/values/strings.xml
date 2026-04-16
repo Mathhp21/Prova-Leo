@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="nome_produto">Nome do produto</string>
+    <string name="codigo_produto">Código do produto</string>
+    <string name="preco">Preço</string>
+    <string name="quantidade_estoque">Quantidade em estoque</string>
+    <string name="salvar_produto">Salvar Produto</string>
+    <string name="ver_produtos">Ver Produtos Cadastrados</string>
+</resources>
